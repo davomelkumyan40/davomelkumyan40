@@ -68,10 +68,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/davomelkumyan40/davomelkumyan40/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="left" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx5OHR0dGRjZmVzczlwZ3BtdGZyNG4wY2E2eG1iZmxhdmJidzk2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A6aHBCFqlE0Rq/giphy.webp"  />
 
 ###
