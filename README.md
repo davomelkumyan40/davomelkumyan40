@@ -53,7 +53,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="5" />
-  <img src="https://saigontechnology.com/assets/media/image6_2.webp" height="30" alt="git logo"  />
+  <img src="https://github.com/davomelkumyan40/davomelkumyan40/blob/main/dotnet_bot.svg" height="30" alt="git logo"  />
 </div>
 
 ###
